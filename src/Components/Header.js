@@ -5,7 +5,7 @@ function Header() {
     <Container>
       <Inner>
         <ImgDiv>
-          <img src="images/Maverick.png" />
+          <img src="images/Maverick.png" alt="Maverick" />
         </ImgDiv>
         <SecondDiv>
           <span>Home</span>

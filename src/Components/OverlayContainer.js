@@ -8,7 +8,7 @@ function OverlayContainer() {
         50+ Direct Bookings in 90 Days!
       </h1>
       <button>Unlock my booking boost now</button>
-      <img src="images/Rectangle.png" />
+      <img src="images/Rectangle.png" alt="Rectangle" />
     </Container>
   );
 }
